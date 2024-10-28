@@ -3,13 +3,37 @@
   "reactNativePath": "D:\\Mobile3\\Lab3ProductList\\node_modules\\react-native",
   "reactNativeVersion": "0.75",
   "dependencies": {
+    "@react-native-community/masked-view": {
+      "root": "D:\\Mobile3\\Lab3ProductList\\node_modules\\@react-native-community\\masked-view",
+      "name": "@react-native-community/masked-view",
+      "platforms": {
+        "ios": {
+          "podspecPath": "D:\\Mobile3\\Lab3ProductList\\node_modules\\@react-native-community\\masked-view\\RNCMaskedView.podspec",
+          "version": "0.1.11",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "D:\\Mobile3\\Lab3ProductList\\node_modules\\@react-native-community\\masked-view\\android",
+          "packageImportPath": "import org.reactnative.maskedview.RNCMaskedViewPackage;",
+          "packageInstance": "new RNCMaskedViewPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "D:/Mobile3/Lab3ProductList/node_modules/@react-native-community/masked-view/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
     "react-native-safe-area-context": {
       "root": "D:\\Mobile3\\Lab3ProductList\\node_modules\\react-native-safe-area-context",
       "name": "react-native-safe-area-context",
       "platforms": {
         "ios": {
           "podspecPath": "D:\\Mobile3\\Lab3ProductList\\node_modules\\react-native-safe-area-context\\react-native-safe-area-context.podspec",
-          "version": "4.11.1",
+          "version": "4.12.0",
           "configurations": [],
           "scriptPhases": []
         },

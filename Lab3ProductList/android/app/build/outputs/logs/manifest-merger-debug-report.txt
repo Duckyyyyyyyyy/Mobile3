@@ -6,6 +6,7 @@ INJECTED from D:\Mobile3\Lab3ProductList\android\app\src\debug\AndroidManifest.x
 INJECTED from D:\Mobile3\Lab3ProductList\android\app\src\debug\AndroidManifest.xml:2:1-9:12
 INJECTED from D:\Mobile3\Lab3ProductList\android\app\src\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-safe-area-context] D:\Mobile3\Lab3ProductList\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-community_masked-view] D:\Mobile3\Lab3ProductList\node_modules\@react-native-community\masked-view\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.react:react-android:0.75.4] C:\Users\Admin\.gradle\caches\8.8\transforms\1f00369f60fb558f4c67464032b9f89f\transformed\react-android-0.75.4-debug\AndroidManifest.xml:2:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Admin\.gradle\caches\8.8\transforms\62e9ae2b9fdfd8c8e42c6301d91128ce\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Admin\.gradle\caches\8.8\transforms\7e3a2d85f956185beb2f1e38094026bf\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -149,6 +150,8 @@ INJECTED from D:\Mobile3\Lab3ProductList\android\app\src\debug\AndroidManifest.x
 INJECTED from D:\Mobile3\Lab3ProductList\android\app\src\debug\AndroidManifest.xml
 MERGED from [:react-native-safe-area-context] D:\Mobile3\Lab3ProductList\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
 MERGED from [:react-native-safe-area-context] D:\Mobile3\Lab3ProductList\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_masked-view] D:\Mobile3\Lab3ProductList\node_modules\@react-native-community\masked-view\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_masked-view] D:\Mobile3\Lab3ProductList\node_modules\@react-native-community\masked-view\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:react-android:0.75.4] C:\Users\Admin\.gradle\caches\8.8\transforms\1f00369f60fb558f4c67464032b9f89f\transformed\react-android-0.75.4-debug\AndroidManifest.xml:10:5-44
 MERGED from [com.facebook.react:react-android:0.75.4] C:\Users\Admin\.gradle\caches\8.8\transforms\1f00369f60fb558f4c67464032b9f89f\transformed\react-android-0.75.4-debug\AndroidManifest.xml:10:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Admin\.gradle\caches\8.8\transforms\62e9ae2b9fdfd8c8e42c6301d91128ce\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44

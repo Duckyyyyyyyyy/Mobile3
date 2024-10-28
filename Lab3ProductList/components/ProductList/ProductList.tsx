@@ -3,7 +3,7 @@ import {Appbar} from 'react-native-paper';
 import {SafeAreaView} from 'react-native-safe-area-context';
 import ProductCard from './components/ProductCard';
 import {FlatList, StatusBar, StyleSheet} from 'react-native';
-import { Product } from '../../type/type';
+import {Product} from '../../type/type';
 
 const ProductList = () => {
   const [data, setData] = useState([]);
